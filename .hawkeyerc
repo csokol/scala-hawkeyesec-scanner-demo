@@ -1,0 +1,5 @@
+{
+  "all": true,
+  "modules": ["java-find-secbugs"],
+  "json": "target/results.json"
+}

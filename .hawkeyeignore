@@ -1,1 +1,2 @@
 ^project/target/
+^lib_managed/jars/org.scala-lang

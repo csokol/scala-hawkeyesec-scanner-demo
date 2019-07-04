@@ -6,7 +6,7 @@ scalaVersion := "2.13.0"
 
 libraryDependencies += "org.apache.httpcomponents" % "httpclient" % "4.1"
 
-//excludedFiles in Assembly := { (base: Seq[File]) => Nil }
+retrieveManaged := true
 
 lazy val commonSettings = Seq(
   version := "0.1-SNAPSHOT",

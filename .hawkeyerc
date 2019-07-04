@@ -1,5 +1,5 @@
 {
   "all": true,
-  "modules": ["java-find-secbugs"],
+  "modules": ["java-find-secbugs", "java-owasp"],
   "json": "target/results.json"
 }
